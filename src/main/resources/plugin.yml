@@ -1,0 +1,12 @@
+name: KillAndSendWordCommands
+version: '${project.version}'
+main: me.fast.commandargs.Commandargs
+api-version: 1.18
+authors: [ fastskating12 ]
+description: arguments with commands
+commands:
+    sendword:
+        description: command with args
+    kill:
+        description: Kills you or a player..
+
